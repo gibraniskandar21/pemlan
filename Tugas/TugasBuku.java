@@ -27,7 +27,7 @@ public class TugasBuku {
             System.out.println("Penulis Buku\t = " + this.Penulis);
             System.out.println("Kategori Buku\t = " + this.Kategori);
             System.out.println("Tahun Terbit\t = " + this.Tahun);
-            System.out.println();
+            // System.out.println();
         }
     }
     
